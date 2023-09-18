@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "bc814b39896175cbcf573905213e8d81a4bf8c2262d40b376c1588205bb886dc"
+build_start_time: [1695031027, 261527000]
+build_end_time: [1695031034, 552772000]
+inputs:
+  "/Users/user/dev/flutter_class/first_app/macos/Flutter/GeneratedPluginRegistrant.swift": [1695031010, 207714351]
+  "/Users/user/dev/flutter_class/first_app/macos/Runner/AppDelegate.swift": [1689202870, 0]
+  "/Users/user/dev/flutter_class/first_app/macos/Runner/MainFlutterWindow.swift": [1689202870, 0]
